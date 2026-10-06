@@ -1,2 +1,1 @@
-# Healthcare-Analytics-Doctor-Visits
-Bro, use this description:  > **Healthcare data analytics project analyzing patient doctor visits using Python, Pandas, Matplotlib, and Seaborn to identify patterns related to age, gender, illness, health status, chronic conditions, and income.**
+Healthcare data analytics project analyzing patient doctor visits using Python, Pandas, Matplotlib, and Seaborn to identify patterns related to age, gender, illness, health status, chronic conditions, and income.
